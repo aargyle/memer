@@ -1,12 +1,4 @@
 # Meme Generator
-- npm run build
-- put on github
+Memer looks for memes online by querying the GIPHY API based on user input. This project is part of my exploration into React and using Material components
 
-### firebase
-- firebase init
-- only pick hosting
-- set a project id
-- name project
-- to use as public directory? build
-- single-page app? y
-- firebase deploy
+This project is also live on firebase here: https://meme-searcher.firebaseapp.com/
